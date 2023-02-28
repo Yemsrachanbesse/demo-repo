@@ -1,4 +1,6 @@
 # Demo
 some description!
 ## subheader 
-watch tutorial on youtube
+watch tutorial on youtub
+## local development
+1.open index.html
